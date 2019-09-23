@@ -10,7 +10,7 @@ Installation
 git clone https://github.com/la1k/vfj-wind.git
 cd vfj-wind
 python -m pip install minimalmodbus
-python vfj-wind <i>serial_port_device</i>
+python vfj-wind.py <i>serial_port_device</i>
 </pre>
 
 Description
