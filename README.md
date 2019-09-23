@@ -6,12 +6,12 @@ An SM5386B data acquisition application/library
 
 Installation
 ------------
-'''
+```
 git clone https://github.com/la1k/vfj-wind.git
 cd vfj-wind
 python -m pip install minimalmodbus
 python vfj-wind ___serial_port_device___
-'''
+```
 
 Description
 -----------
